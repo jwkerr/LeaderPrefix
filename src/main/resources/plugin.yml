@@ -6,3 +6,4 @@ depend: [Towny, PlaceholderAPI]
 authors: [Fruitloopins]
 description: Allow nation leaders to switch between a K or Q prefix
 website: https://earthmc.net
+folia-supported: true
